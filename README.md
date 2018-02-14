@@ -1,4 +1,4 @@
-# PruebaTecnicaReactSancrisof
+# PruebaTecnicaReactSancrisoft
 PruebaTecnicaReactRedux
 Aplicacion TODO
 
